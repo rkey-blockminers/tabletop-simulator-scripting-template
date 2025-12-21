@@ -1,0 +1,13 @@
+# Ignore generated bundle (redundant copy of scripts)
+.tts/bundled/
+
+# Ignore object metadata, keep only scripts and UI
+.tts/objects/*.data.json
+
+# VSCode configs
+.vscode/
+*.code-workspace
+
+# OS cruft
+.DS_Store
+Thumbs.db
