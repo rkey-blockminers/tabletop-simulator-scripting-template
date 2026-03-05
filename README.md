@@ -1,12 +1,16 @@
 # Blockminers – Tabletop Simulator Scripting Template
 
+[![Website](https://img.shields.io/badge/Official%20Website-Blockminers-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.blockminers.net/)
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-Play%20the%20Mod-171a21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3667395669)
+[![BoardGameGeek](https://img.shields.io/badge/BoardGameGeek-Game%20Page-ff5100?style=for-the-badge&logo=boardgamegeek&logoColor=white)](https://boardgamegeek.com/boardgame/424758/blockminers)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GwnQ3DZzd7)
+[![YouTube](https://img.shields.io/badge/YouTube-Dev%20Series-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@blockminers-the-board-game)
+
 This repository contains the **public reference codebase** used during the development of  
 the board game **Blockminers**, implemented in Tabletop Simulator.
 
 It is intentionally published as a **starter template** for TTS Lua scripting projects and
 a **learning resource**, showing real-world, production-quality structure.
-
-If you find this guide helpful, please consider subscribing to the [Blockminers YouTube channel](https://www.youtube.com/@blockminers-the-board-game?sub_confirmation=1)
 
 ---
 
